@@ -170,10 +170,10 @@ export default function CardDeck({ type, title, cardImages }: CardDeckProps) {
 
           {/* Decorative elements */}
           <div className="absolute bottom-4 left-4 w-12 h-12 opacity-30">
-            <Image src="/wizard-decorations/rune1.png" alt="Magical rune" width={48} height={48} />
+            <Image src="/cards/WizardLogo.png" alt="Magical rune" width={48} height={48} />
           </div>
           <div className="absolute top-4 right-4 w-12 h-12 opacity-30">
-            <Image src="/wizard-decorations/rune2.png" alt="Magical rune" width={48} height={48} />
+            <Image src="/cards/WizardLogo.png" alt="Magical rune" width={48} height={48} />
           </div>
         </div>
 
